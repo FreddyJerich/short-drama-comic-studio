@@ -1,5 +1,7 @@
 # short-drama-comic-studio
 
+中文文档：[`README.zh-CN.md`](README.zh-CN.md)
+
 A Codex skill for building short drama / comic-drama projects end-to-end:
 
 - Plan-mode-style interrogation (systematic intake questions)
