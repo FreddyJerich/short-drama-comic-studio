@@ -1,0 +1,7 @@
+interface:
+  display_name: "短剧漫剧工作流"
+  short_description: "先追问，再用导演/摄影/灯光/剪辑思维做短剧成片"
+  default_prompt: "Use $short-drama-comic-studio to question me systematically, review the project as director, DP, lighting director, and editing director, then use $imagegen for storyboard images and Xiaoyunque for the final video."
+
+policy:
+  allow_implicit_invocation: true
